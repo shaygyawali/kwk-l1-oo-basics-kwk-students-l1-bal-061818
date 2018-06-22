@@ -45,7 +45,7 @@ class Shoe
   end 
   
 shoe = Shoe.new("some")
-
+shoe.repaired
 
 end
 
