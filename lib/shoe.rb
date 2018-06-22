@@ -44,7 +44,7 @@ class Shoe
     puts "the shoe has been repaired"
   end 
   
-shoe = Shoe.new
+shoe = Shoe.new("some thing")
 shoe.repaired
 
 end
