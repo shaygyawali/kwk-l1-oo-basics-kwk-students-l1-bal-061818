@@ -46,6 +46,7 @@ class Shoe
   
 shoe = Shoe.new("some")
 
+
 end
 
 
